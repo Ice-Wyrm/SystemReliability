@@ -1,0 +1,9 @@
+D:\Учеба\Надёжность систем\КР1\Task2\bin\Debug\Task2.exe.config
+D:\Учеба\Надёжность систем\КР1\Task2\bin\Debug\Task2.exe
+D:\Учеба\Надёжность систем\КР1\Task2\bin\Debug\Task2.pdb
+D:\Учеба\Надёжность систем\КР1\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+D:\Учеба\Надёжность систем\КР1\Task2\obj\Debug\Task2.Form1.resources
+D:\Учеба\Надёжность систем\КР1\Task2\obj\Debug\Task2.Properties.Resources.resources
+D:\Учеба\Надёжность систем\КР1\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+D:\Учеба\Надёжность систем\КР1\Task2\obj\Debug\Task2.exe
+D:\Учеба\Надёжность систем\КР1\Task2\obj\Debug\Task2.pdb
